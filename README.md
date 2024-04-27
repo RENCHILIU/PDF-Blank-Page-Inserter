@@ -21,6 +21,8 @@ This tool is particularly useful for those who need to add notes between pages o
 
 # How to use it
 
-1 - run `PDF Blank Page Inserter` directly 
+Clone the project 
 
-2 - build&complie by youself with `python setup.py py2app` 
+Option 1 - Run `PDF Blank Page Inserter.app` directly 
+
+Option 2 - Build&complie by youself with `python setup.py py2app` 
